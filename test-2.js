@@ -1,4 +1,9 @@
-function divideTwoNumbers(number1 = 20, number2 = 10) {
-	return number1 / number2;
-}
+const button = document.querySelector('button');
 
+let count;
+
+// const increment = () => {
+// 	count++;
+// };
+
+button.addEventListener('', () => count++);
